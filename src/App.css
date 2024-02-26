@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.buttonsContainer{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+button{
+  background-color: rgb(14, 13, 13);
+  color: white;
+  border-radius: 50%;
+  border: none;
+  width: 40px;
+  height: 40px;
+}
